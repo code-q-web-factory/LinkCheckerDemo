@@ -1,0 +1,9 @@
+prototype(CodeQ.Site:Component.Layout.Default) < prototype(Neos.Fusion:Component) {
+    content = ''
+
+    renderer = afx`
+        <CodeQ.Site:Component.Header />
+        {props.content}
+        <CodeQ.Site:Component.Footer />
+    `
+}
