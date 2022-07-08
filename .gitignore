@@ -3,7 +3,6 @@
 /Configuration/**/*.example
 /Configuration/Development/Settings.yaml
 /Configuration/Testing/
-/Configuration/Settings.yaml
 /Configuration/README
 /Data/
 /Packages/*

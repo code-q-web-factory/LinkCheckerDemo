@@ -12,9 +12,15 @@
         }
     },
     "require": {
-        "codeq/site": "@dev"
+        "neos/swiftmailer": "*",
+        "codeq/site": "@dev",
+        "codeq/linkchecker": "dev-wip"
     },
     "repositories": {
+        "linkchecker": {
+          "type": "git",
+          "url": "https://github.com/code-q-web-factory/CodeQ.LinkChecker"
+        },
         "distribution": {
             "type": "path",
             "url": "./DistributionPackages/*"

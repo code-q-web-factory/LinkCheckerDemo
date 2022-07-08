@@ -6,8 +6,8 @@
     <variant sortingIndex="100" workspace="live" nodeType="CodeQ.Site:Document.HomePage" version="1" removed="" hidden="" hiddenInIndex="">
      <dimensions/>
      <accessRoles __type="array"/>
-     <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</creationDateTime>
-     <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</lastModificationDateTime>
+     <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</creationDateTime>
+     <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</lastModificationDateTime>
      <properties>
       <title __type="string">Home</title>
       <uriPathSegment __type="string">home</uriPathSegment>
@@ -17,10 +17,187 @@
      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
       <dimensions/>
       <accessRoles __type="array"/>
-      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</creationDateTime>
-      <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+02:00</lastModificationDateTime>
+      <creationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2018-06-26T23:20:17+00:00</lastModificationDateTime>
       <properties/>
      </variant>
+     <node identifier="56c045b9-f746-4645-a54d-119ef389bc5a" nodeName="node-kizcghle3yy1i">
+      <variant sortingIndex="100" workspace="live" nodeType="CodeQ.Site:Content.Text" version="41" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:56:11+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T12:35:20+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T12:35:20+00:00</lastPublicationDateTime>
+       <properties>
+        <text __type="string">&lt;p&gt;Interne Seiten-Links:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;node://0060198c-4c1c-46d4-b959-51260169b3d9&quot;&gt;Sichtbare Seite&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://afc244d9-5b10-414e-b7fb-1ef8e6662dad&quot;&gt;Versteckte Seite&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;Elternseite ist versteckt&quot;&gt;Elternseite ist versteckt&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://7f1435a2-1ffb-4200-b10d-123c04dab34a&quot;&gt;Versteckte Seite 2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://3e028344-b754-4228-8f26-21214e65c14e&quot;&gt;Versteckte Seite in versteckter Seite 2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://7d404b3c-bb71-4595-aaa1-2f70fcfb70a2&quot;&gt;Link zu gelöschter Seite&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Andere interne Links:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/sichtbare-seite&quot;&gt;Externer Link zu interner sichtbarer Seite (Bad Practise)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;/geloeschte-seite&quot;&gt;Externer Link zu interner nicht existierender Seite (Bad Practise)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;asset://16e22e29-f7bb-4d06-beb4-3885409b1a82&quot;&gt;Link zu Asset&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Externe Links:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://www.google.com/&quot;&gt;Link zu Google&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/company/k-businesscom&quot;&gt;Link zu LinkedIn, die Robots blockiert&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;	https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.k-business.com&quot;&gt;Link zu Facebook Share, die Robots blockiert&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;sdf.de&quot;&gt;Fehlerhafter Link&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;tel:+43 676 45 16 731&quot;&gt;Telefonnummern-Link&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;mailto:rs@codeq.at&quot;&gt;E-Mail-Link&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;mailto:rs@codeq.at?subject=Test%20Test&quot;&gt;E-Mail-Link mit Betreff&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+       </properties>
+      </variant>
+     </node>
+    </node>
+    <node identifier="7f1435a2-1ffb-4200-b10d-123c04dab34a" nodeName="node-cffwis0rknx3n">
+     <variant sortingIndex="350" workspace="live" nodeType="CodeQ.Site:Document.Page" version="3" removed="" hidden="1" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:00+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">versteckte-seite-2</uriPathSegment>
+       <title __type="string">Versteckte Seite 2</title>
+      </properties>
+     </variant>
+     <node identifier="d69d996e-82f9-8bf1-fc94-550419b5393e" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:00+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
+     </node>
+     <node identifier="3e028344-b754-4228-8f26-21214e65c14e" nodeName="node-4zv93l1akccmz">
+      <variant sortingIndex="200" workspace="live" nodeType="CodeQ.Site:Document.Page" version="3" removed="" hidden="1" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:17+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">versteckte-seite-in-versteckter-seite-2</uriPathSegment>
+        <title __type="string">Versteckte Seite in versteckter Seite 2</title>
+       </properties>
+      </variant>
+      <node identifier="1479bd01-57f5-22b2-0d89-9a49567e1b9b" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:17+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+      </node>
+     </node>
+    </node>
+    <node identifier="0060198c-4c1c-46d4-b959-51260169b3d9" nodeName="node-fsdvvlkx8od18">
+     <variant sortingIndex="200" workspace="live" nodeType="CodeQ.Site:Document.Page" version="2" removed="" hidden="" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:53:03+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">sichtbare-seite</uriPathSegment>
+       <title __type="string">Sichtbare Seite</title>
+      </properties>
+     </variant>
+     <node identifier="8aa566db-5047-6171-9370-8b5954159010" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:53:03+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
+      <node identifier="4c96b86d-55e1-420a-b67c-a10ed8904e5a" nodeName="node-uql11o5m3cq5x">
+       <variant sortingIndex="100" workspace="live" nodeType="CodeQ.Site:Content.Text" version="5" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:55:58+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T12:00:58+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T12:00:58+00:00</lastPublicationDateTime>
+        <properties>
+         <text __type="string">&lt;p&gt;Hier sind Links, diese sind versteckt und sollten daher keinen Fehler erzeugen.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;node://0060198c-4c1c-46d4-b959-51260169b3d9&quot;&gt;Sichtbare Seite (diese Seite)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://afc244d9-5b10-414e-b7fb-1ef8e6662dad&quot;&gt;Versteckte Seite&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;Elternseite ist versteckt&quot;&gt;Elternseite ist versteckt&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://7f1435a2-1ffb-4200-b10d-123c04dab34a&quot;&gt;Versteckte Seite 2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://3e028344-b754-4228-8f26-21214e65c14e&quot;&gt;Versteckte Seite in versteckter Seite 2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+        </properties>
+       </variant>
+      </node>
+     </node>
+    </node>
+    <node identifier="afc244d9-5b10-414e-b7fb-1ef8e6662dad" nodeName="node-shfzxxzrpbrxd">
+     <variant sortingIndex="250" workspace="live" nodeType="CodeQ.Site:Document.Page" version="4" removed="" hidden="1" hiddenInIndex="">
+      <dimensions>
+       <language>en</language>
+      </dimensions>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:53:09+00:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">versteckte-seite</uriPathSegment>
+       <title __type="string">Versteckte Seite</title>
+      </properties>
+     </variant>
+     <node identifier="330c5176-96cb-e421-6040-d9d7b615b524" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:53:09+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+       <properties/>
+      </variant>
+     </node>
+     <node identifier="7b7a0ede-d594-4a9a-9538-b9b64e7308df" nodeName="node-k8uyx1gbwkbz6">
+      <variant sortingIndex="200" workspace="live" nodeType="CodeQ.Site:Document.Page" version="2" removed="" hidden="" hiddenInIndex="">
+       <dimensions>
+        <language>en</language>
+       </dimensions>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:53:25+00:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+       <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+       <properties>
+        <uriPathSegment __type="string">elternseite-ist-versteckt</uriPathSegment>
+        <title __type="string">Elternseite ist versteckt</title>
+       </properties>
+      </variant>
+      <node identifier="b7a3b8cf-cea4-7d38-e57d-272a63c9fb00" nodeName="main">
+       <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="2" removed="" hidden="" hiddenInIndex="">
+        <dimensions>
+         <language>en</language>
+        </dimensions>
+        <accessRoles __type="array"/>
+        <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:53:25+00:00</creationDateTime>
+        <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastModificationDateTime>
+        <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T11:54:23+00:00</lastPublicationDateTime>
+        <properties/>
+       </variant>
+       <node identifier="01d6597b-f147-4c97-9116-fe227b3fc6fe" nodeName="node-dyos82rdp1i4e">
+        <variant sortingIndex="100" workspace="live" nodeType="CodeQ.Site:Content.Text" version="8" removed="" hidden="" hiddenInIndex="">
+         <dimensions>
+          <language>en</language>
+         </dimensions>
+         <accessRoles __type="array"/>
+         <creationDateTime __type="object" __classname="DateTime">2022-07-08T11:53:34+00:00</creationDateTime>
+         <lastModificationDateTime __type="object" __classname="DateTime">2022-07-08T12:00:58+00:00</lastModificationDateTime>
+         <lastPublicationDateTime __type="object" __classname="DateTime">2022-07-08T12:00:58+00:00</lastPublicationDateTime>
+         <properties>
+          <text __type="string">&lt;p&gt;Hier sind Links, diese sind versteckt und sollten daher keinen Fehler erzeugen.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;node://0060198c-4c1c-46d4-b959-51260169b3d9&quot;&gt;Sichtbare Seite&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://afc244d9-5b10-414e-b7fb-1ef8e6662dad&quot;&gt;Versteckte Seite&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;Elternseite ist versteckt&quot;&gt;Elternseite ist versteckt (diese Seite)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://7f1435a2-1ffb-4200-b10d-123c04dab34a&quot;&gt;Versteckte Seite 2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;node://3e028344-b754-4228-8f26-21214e65c14e&quot;&gt;Versteckte Seite in versteckter Seite 2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</text>
+         </properties>
+        </variant>
+       </node>
+      </node>
+     </node>
     </node>
    </node>
   </nodes>

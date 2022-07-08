@@ -1,0 +1,9 @@
+CodeQ:
+  LinkChecker:
+    # how many concurrent requests should the command controller perform
+    # If set too high, you most DOS your server
+    concurrency: 10
+    notifications:
+      enabled: false
+    urlsToCrawl:
+      - https://linkcheckerdemo.ddev.site
