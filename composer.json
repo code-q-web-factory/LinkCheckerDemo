@@ -14,16 +14,16 @@
     "require": {
         "neos/swiftmailer": "*",
         "codeq/site": "@dev",
-        "codeq/linkchecker": "dev-wip"
+        "codeq/linkchecker": "@dev"
     },
     "repositories": {
-        "linkchecker": {
-          "type": "git",
-          "url": "https://github.com/code-q-web-factory/CodeQ.LinkChecker"
-        },
         "distribution": {
             "type": "path",
             "url": "./DistributionPackages/*"
+        },
+        "linkchecker": {
+            "type": "git",
+            "url": "https://github.com/code-q-web-factory/CodeQ.LinkChecker"
         }
     },
     "scripts": {
